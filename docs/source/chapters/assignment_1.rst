@@ -30,12 +30,12 @@ To increase the readability we used the Variable inv_det that stores the inverse
 When we wrote out the matrix-vector multiplication we got formulas for each wave strength, which can be calculated easily by a computer.
 
 .. math:: \alpha_1 = \lambda_2\cdot inv\_det\cdot (h_l- h_r) - inv\_det\cdot(hu_l-hu_r),\\ \alpha_2 = inv\_det\cdot(hu_l-hu_r)-\lambda_1\cdot inv\_det\cdot(h_l-h_r)
-    :label: eq: swe1d
+    :label: eq:swe1d
 
 If the wave strength is greater than 0 it belongs to a wave is right-going which influences the right cell. And the other way around. We expect one wave to be right-going and on to be left-going. This way the left net update equals the left-going wave and the right net update is set to be the right going wave.
 
 .. math:: netUpdate_{Left}= A^{-}\Delta Q = \begin{cases}Z_1\qquad\lambda_1<0\\ Z_2\qquad\lambda_2<0\end{cases} \\ netUpdate_{Right}= A^{+}\Delta Q = \begin{cases}Z_1\qquad\lambda_1>0\\ Z_2\qquad\lambda_2>0\end{cases} 
-    :label: eq: swe1d
+    :label: eq:swe1d
 
 
 .. _ch:code:
@@ -46,29 +46,6 @@ Code
 Our project starts with a given code to jump-start your developments.
 First, we make sure that you can use the code and work on it collaboratively.
 
-.. admonition:: Tasks
-
-   #. The project’s initial code is available from `Github <https://github.com/breuera/tsunami_lab>`_.
-      Fork the git-repository for your work.
-      You may do this in your preferred way, e.g., by using your own resources or by using a provider of your choice.
-      Make sure that all team members have access to your fork.
-
-   #. The initial code ships with an implementation of the Roe solver.
-      The Roe solver is similar to the targeted f-wave solver which you will develop as part of :numref:`ch:fwave`.
-      Make yourself familiar with the initial code.
-      The software uses `SCons <https://www.scons.org>`_ as a build tool.
-      Build the code, run the unit tests, run the solver, and visualize the results.
-
-   #. Generate a `Doxygen <https://www.doxygen.nl/>`_ documentation from the code.
-      In future, comment your code using Doxygen syntax, especially functions and function parameters.
-
-   #. Use git’s version control features for all changes and write meaningful commit messages.
-      Consider going through pull requests and code reviews for changes.
-      Make yourself familiar with git.
-
-   #. It is paramount to test new features of our software before going to production.
-      For this, we'll introduce unit tests through `Catch2 <https://github.com/catchorg/Catch2>`_ whenever possible.
-      Make yourself familiar with Catch2.
 
 
 .. _ch:fwave:
