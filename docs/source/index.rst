@@ -1,14 +1,4 @@
 .. toctree::
    chapters/assignment_1.rst
-   chapters/assignment_2.rst
-   chapters/assignment_3.rst
-   chapters/assignment_4.rst
-   chapters/assignment_5.rst
-   chapters/assignment_6.rst
-   chapters/assignment_7.rst
-   chapters/assignment_8.rst
-   chapters/assignment_9.rst
-   chapters/assignment_10.rst
-   api
 
 .. include:: chapters/overview.rst
