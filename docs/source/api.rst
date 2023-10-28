@@ -1,4 +1,3 @@
 .. autosummary::
    :toctree: generated
 
-   lumache
