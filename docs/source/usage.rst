@@ -1,16 +1,17 @@
-F Wave Solver
+Usage
 =====
 
 .. _Mathematics:
 
 Mathematics
 ---------------
+something
 
 .. _HeaderFile
 
 Header File
 ----------------
-
+something
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
