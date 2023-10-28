@@ -18,6 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
+   RiemanSolver
+   FWaveSolver
    api
 Lumache has its documentation hosted on Read the Docs.
