@@ -37,5 +37,4 @@ If the wave strength is greater than 0 it belongs to a wave is right-going which
 Code
 ---------------
 
-Our project starts with a given code to jump-start your developments.
-First, we make sure that you can use the code and work on it collaboratively.
+.. image:: graphics_1/01_picture.jpeg
