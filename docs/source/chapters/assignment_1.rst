@@ -43,7 +43,8 @@ wave modeling. These functions include averaging wave heights and velocities,
 calculating wave speeds, determining wave strengths, and computing net updates to system 
 state variables.
 
-.. code-block:: c
+.. code-block::
+   :linenos:
 	/**
 	 * @author Bohdan Babii, Phillip Rothenbeck
 	 *
@@ -160,6 +161,8 @@ It offers functions for averaging heights and velocities, computing wave speeds,
 determining wave strengths, and calculating net updates to system state variables.
 
 .. code-block:: cpp
+  :linenos:
+
 	/**
 	 * @author Bohdan Babii, Phillip Rothenbeck
 	 *
@@ -289,7 +292,9 @@ the solver, including the derivation of average heights and particle velocities,
 the calculation of F wave speeds, and the determination of wave strengths. Additionally, 
 it verifies the computation of net updates to the system's state variables. 
 
-.. code-block:: scons
+.. code-block::
+   :linenos:
+
 	/**
 	 * @author Bohdan Babii, Phillip Rothenbeck
 	 *
