@@ -46,4 +46,3 @@ First, we make sure that you can use the code and work on it collaboratively.
 
 Visualization
 -------------
-.. image:: graphics_1/01_picture.jpeg
