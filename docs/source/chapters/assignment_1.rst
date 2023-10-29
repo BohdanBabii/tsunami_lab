@@ -1,7 +1,13 @@
-.. _ch:Task_1.1:
+.. _ch:Task_1_1:
 
 Report Week 1
 ==============
+
+.. _ch:Mathematics:
+
+Mathematics
+-----------
+
 To implement the f-wave solver we used a class called F_Wave the only public method of F_Wave is called netUpdates, which calculates all netUpdates as required in the task. To calculate the netUpdates we need to compute each wave first, that again requires the wave speeds and wave strengths to be available. For which we wrote the private functions waveSpeeds and waveStrengths. Lastly we added the heightAvg and the particleVelocityAvg function to be able to calculate the wave speeds. 
 
 Both heightAvg, which calculates average height of the left and the right cell, and particleVelocityAvg, computing the average particle velocity of both cells, are implemented as extra functions to increase readability.
@@ -134,7 +140,7 @@ state variables.
 					   t_real & o_strengthL,
 					   t_real & o_strengthR);
 
-		public:
+	public:
 	        /**
 		 * Computes the net-updates.
 		 *
