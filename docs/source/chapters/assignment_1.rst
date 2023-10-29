@@ -625,3 +625,11 @@ it verifies the computation of net updates to the system's state variables.
 
 Visualization
 -------------
+.. image:: 01_picture.jpeg
+  :width: 400
+  :alt: First Picture of Visualization
+
+.. image:: 02_picture.jpeg
+  :width: 400
+  :alt: Second Picture of Visualization
+
