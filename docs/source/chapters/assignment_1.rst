@@ -43,7 +43,7 @@ wave modeling. These functions include averaging wave heights and velocities,
 calculating wave speeds, determining wave strengths, and computing net updates to system 
 state variables.
 
-.. code-block::
+.. code-block:: cpp
    :linenos:
 	/**
 	 * @author Bohdan Babii, Phillip Rothenbeck
