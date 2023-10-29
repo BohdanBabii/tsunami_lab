@@ -2,9 +2,22 @@
 
 Report Week 1
 ==============
+.. _ch:Contribution:
+Contribution
+------------
+Bohdan Babii and Phillip Rothenbeck both made equal and significant contributions to 
+Assignment 1 at the Tsunami Lab. Their collaboration and dedication to the project were 
+evident throughout the process. 
+
+.. _ch:User_Documentation:
+User Documentation
+------------------
+The submitted code has not yet been integrated into the main application, so it cannot be 
+used directly. However, you can test it separately using the scons build tool to ensure 
+its functionality. The integration of this code into the main application is planned to 
+be implemented in the next assignment.
 
 .. _ch:Mathematics:
-
 Mathematics
 -----------
 
@@ -626,8 +639,6 @@ it verifies the computation of net updates to the system's state variables.
 Visualization
 -------------
 **Initial state of water**
-.. video:: ../../../_static/11_vid.mp4
-  :width: 400
 
 .. image:: 01_picture.jpeg
   :width: 400
@@ -650,9 +661,6 @@ Visualization
   :alt: Fifth Picture of Visualization
 
 **Initial state of particle velocity**
-
-.. video:: ../../../_static/12_vid.mp4
-  :width: 400
 
 .. image:: 06_picture.jpeg
   :width: 400
