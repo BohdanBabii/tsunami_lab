@@ -39,10 +39,3 @@ Code
 
 Our project starts with a given code to jump-start your developments.
 First, we make sure that you can use the code and work on it collaboratively.
-
-
-
-.. _ch:visualization:
-
-Visualization
--------------
