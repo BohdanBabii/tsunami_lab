@@ -626,7 +626,7 @@ it verifies the computation of net updates to the system's state variables.
 Visualization
 -------------
 **Initial state of water"
-.. video:: 11_vid.mp4
+.. video:: ../../../_static/11_vid.mp4
   :width: 400
 
 .. image:: 01_picture.jpeg
@@ -651,7 +651,7 @@ Visualization
 
 **Initial state of particle velocity**
 
-.. video:: 12_vid.mp4
+.. video:: ../../../_static/12_vid.mp4
   :width: 400
 
 .. image:: 06_picture.jpeg
