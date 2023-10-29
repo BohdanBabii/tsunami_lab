@@ -36,13 +36,13 @@ If the wave strength is greater than 0 it belongs to a wave is right-going which
 
 Code
 ---------------
-.. image::01_picture.jpeg
-.. image::02_picture.jpeg
-.. image::03_picture.jpeg
-.. image::04_picture.jpeg
-.. image::05_picture.jpeg
-.. image::06_picture.jpeg
-.. image::07_picture.jpeg
-.. image::08_picture.jpeg
-.. image::09_picture.jpeg
-.. image::10_picture.jpeg
+.. image::01_picture
+.. image::02_picture
+.. image::03_picture
+.. image::04_picture
+.. image::05_picture
+.. image::06_picture
+.. image::07_picture
+.. image::08_picture
+.. image::09_picture
+.. image::10_picture
