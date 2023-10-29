@@ -633,3 +633,34 @@ Visualization
   :width: 400
   :alt: Second Picture of Visualization
 
+.. image:: 03_picture.jpeg
+  :width: 400
+  :alt: Third Picture of Visualization
+
+.. image:: 04_picture.jpeg
+  :width: 400
+  :alt: Second Picture of Visualization
+
+.. image:: 05_picture.jpeg
+  :width: 400
+  :alt: Fifth Picture of Visualization
+
+.. image:: 06_picture.jpeg
+  :width: 400
+  :alt: Sixth Picture of Visualization
+
+.. image:: 07_picture.jpeg
+  :width: 400
+  :alt: Seventh Picture of Visualization
+
+.. image:: 08_picture.jpeg
+  :width: 400
+  :alt: Eighth Picture of Visualization
+
+.. image:: 09_picture.jpeg
+  :width: 400
+  :alt: Nineth Picture of Visualization
+
+.. image:: 10_picture.jpeg
+  :width: 400
+  :alt: Tenth Picture of Visualization
