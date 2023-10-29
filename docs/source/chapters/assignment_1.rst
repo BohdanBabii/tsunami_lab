@@ -42,17 +42,8 @@ First, we make sure that you can use the code and work on it collaboratively.
 
 
 
-.. _ch:fwave:
+.. _ch:visualization:
 
 Visualization
 -------------
 .. image:: graphics_1/01_picture.jpeg
-.. image:: graphics_1/02_picture.jpeg
-.. image:: graphics_1/03_picture.jpeg
-.. image:: graphics_1/04_picture.jpeg
-.. image:: graphics_1/05_picture.jpeg
-.. image:: graphics_1/06_picture.jpeg
-.. image:: graphics_1/07_picture.jpeg
-.. image:: graphics_1/08_picture.jpeg
-.. image:: graphics_1/09_picture.jpeg
-.. image:: graphics_1/10_picture.jpeg
