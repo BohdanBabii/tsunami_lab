@@ -625,7 +625,7 @@ it verifies the computation of net updates to the system's state variables.
 
 Visualization
 -------------
-**Initial state of water"
+**Initial state of water**
 .. video:: ../../../_static/11_vid.mp4
   :width: 400
 
